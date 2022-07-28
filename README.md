@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Hi, I'm Hadi Mahdavi, a passionate self-taught Backend developer from Iran.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=expanboard&label=Profile%20views&color=0e75b6&style=flat" alt="expanboard" /> </p>
+
+Hi, I'm Hadi Mahdavi, a passionate self-taught Backend developer.
 
 - 🔭 I’m currently working on [Borokero Web, IoT and Mobile Backend Platform](https://github.com/borokero/borokero).
 - 🌱 I’m currently learning Golang
